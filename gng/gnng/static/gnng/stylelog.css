@@ -1,0 +1,24 @@
+body{
+	background: white url("food.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.header {
+    
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+
+
+
+.header h1 {
+    color: #F9502B;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+
+h2 a{
+    color: #000000;
+}
